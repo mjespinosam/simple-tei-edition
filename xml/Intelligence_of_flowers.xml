@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The intelligence of flowers</title>
+         </titleStmt>
+         <publicationStmt>
+               <publisher>Cornell University</publisher>
+               <pubPlace> New York </pubPlace>
+               <date>2017</date>
+               <availability>
+                  <p>Free eBook from the Internet Archive.</p>
+               </availability>           
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The intelligence of flowers</title>
+                  <author> Maeterlinck, Maurice </author>
+               </titleStmt>
+               <editionStmt>
+                  <edition> Dood Mead</edition>
+               </editionStmt>
+               <extent> </extent>
+               <publicationStmt>
+                  <publisher>Dood Mead</publisher>
+                  <pubPlace>New York</pubPlace>
+                  <date>1907</date>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>This is a digital version from the original</p>
+               </sourceDesc>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ 
+<text>
+      <body>
+         <p> This need of movement, 
+            this craving for space, 
+            among the greater number 
+            of plants, is manifested in 
+            both the flower and the 
+            fruit. It is easily explained 
+            in the fruit, or, in any case, 
+            discloses only a less complex 
+            experience and foresight. 
+            Contrary to that which 
+            takes place in the animal 
+            kingdom and because of the 
+            terrible law of absolute im- 
+            mobility, the chief and 
+            worst enemy of the seed is 
+            the paternal stock. 
+            We are in a strange world, where 
+            the parents, unable to move 
+            from place to place, know 
+            that they are condemned to 
+            starve or stifle their off- 
+            spring. Every seed that 
+            falls at the joot of tEeTtree 
+            or plant is either lost or 
+            doomed to sprout in wretch- ( 
+            edness . Hence the immense 
+            effort to throw off the yoke 
+            and conquer space. Hence 
+            the marvellous systems of 
+            dissemination, of propul- 
+            sion, of navigation of the 
+            air which we find on every 
+            side in the forest and the 
+            plain: among others, to 
+            mention, in passing, but a 
+            few of the most curious, 
+            the aerial screw or samara of 
+            the Maple; the bract of 
+            the Lime-tree; the flying- 
+            machine of the Thistle, the 
+            Dandelion and the Salsafy ; 
+            the detonating springs of 
+            the Spurge ; the extraordi- 
+            nary squirt of the Momor- 
+            dica ; the hooks of the 
+            eriophilous plants ; and a 
+            thousand other unexpected 
+            and astounding pieces of 
+            mechanism ; for there is 
+            not, so to speak, a single 
+            seed but has invented for 
+            its sole use a complete 
+            method of escaping from 
+            the maternal shade. </p>
+                
+      </body>
+  </text>
+</TEI>
